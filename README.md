@@ -1,1 +1,1 @@
-# SimpleInterest
+# SimpleInterest and compund Interest
